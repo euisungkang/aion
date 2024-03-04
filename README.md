@@ -33,6 +33,10 @@
 
 # Overview
 
+**CURRENTLY UNDER DEVELOPMENT as of *03/04/2024***
+
+https://aion-news.vercel.app
+
 # Stack
 
 | Frontend |   | Backend |   |
