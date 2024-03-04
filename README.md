@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/euisungkang/aion-api"><img src="https://i.ibb.co/NZjtGdr/logo-no-background.png" alt="aion-api"></a>
+  <a href="https://github.com/euisungkang/aion"><img src="https://i.ibb.co/NZjtGdr/logo-no-background.png" alt="aion"></a>
   <br>
-  aion-api
+  aion
   <br>
 </h1>
 
