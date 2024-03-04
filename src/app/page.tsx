@@ -22,7 +22,7 @@ export default function Home() {
                         enter: {opacity: 1},
                         exit: {opacity: 0},
                     }}>
-                    <HomePage onSearch={() => setIsVisible(false)}/>
+                    <HomePage onSearch={() : void => setIsVisible(false)} />
                 </motion.div>
             ) :
                 <motion.div

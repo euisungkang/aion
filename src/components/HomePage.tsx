@@ -4,6 +4,7 @@ import LogoSvg from "@/assets/purplepink/logo-no-background.svg";
 import {Input} from "@/components/ui/input";
 import { postQuery } from "@/app/actions";
 
+// @ts-ignore
 export default function HomePage({ onSearch }) {
     const handleSubmit = (formData: FormData) => {
         onSearch();
