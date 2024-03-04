@@ -2,13 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-}
-
-*:focus {
-    outline: none;
-}
-
 * {
     box-sizing: border-box;
 }

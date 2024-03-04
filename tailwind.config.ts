@@ -17,6 +17,9 @@ module.exports = {
   ],
   darkMode: "class",
   theme: {
+    fontFamily: {
+      'display': ['Inter'],
+    },
     extend: {
       backgroundSize: {
         'size-200': '200% 200%',
